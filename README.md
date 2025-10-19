@@ -1,2 +1,2 @@
-# Spotify Clone 
-HTML and CSS
+Spotify Clone
+HTML and CSS.
